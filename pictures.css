@@ -1,0 +1,17 @@
+head{
+  text-align: center;
+  font-family: sans-serif;
+  color: darkgreen;
+}
+body{
+  text-align: center;
+  background-color: lightgreen;
+}
+h1{
+  color: darkgreen;
+  font-style: italic;
+}
+h2{
+  color: yellow;
+  font-style: italic;
+}

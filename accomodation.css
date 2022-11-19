@@ -1,0 +1,21 @@
+head{
+  background-color: yellow;
+  font-style: normal;
+}
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  color: green;
+}
+h2{
+  text-align: center;
+  font-family: sans-serif;
+  color: yellow;
+}
+body{
+  background-color: lightgreen
+}
+p{
+  color: darkgreen;
+  font-family: sans-serif;
+}

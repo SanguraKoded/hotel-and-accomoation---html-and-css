@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  color: green;
+  font-family: sans-serif;
+}
+h2{
+  text-align: center;
+  color: yellow;
+  font-family: sans-serif;
+}
+body{
+  background-color: lightgreen;
+}
+p{
+  font-family: sans-serif;
+}
